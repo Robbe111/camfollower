@@ -10,7 +10,7 @@ clear; close all; clc
 
 
 %% input
-R0 = 31.25; %pitch radius in mm
+R0 = 41.67; %pitch radius in mm
 start_lift = 0; %start lift in mm
 end_lift = 25; %end lift in mm
 cycloidtype = 5; %type of cycloide
